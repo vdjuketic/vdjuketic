@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vukasin Djuketic</h1>
 <h3 align="center">A passionate backend developer from Serbia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vdjuketic&label=Profile%20views&color=0e75b6&style=flat" alt="vdjuketic" /> </p>
-
 - 🌱 I’m currently learning **GoLang**
 
 - 📫 How to reach me **v.djuketic@gmail.com**

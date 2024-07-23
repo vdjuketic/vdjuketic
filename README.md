@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vukasin Djuketic</h1>
 <h3 align="center">A passionate backend developer from Serbia</h3>
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **GoLang** and **NeoVim**
 
 - 📫 How to reach me **v.djuketic@gmail.com**
 
